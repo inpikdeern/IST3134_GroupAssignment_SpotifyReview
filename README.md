@@ -24,7 +24,3 @@ Due to its large size (625MB, 3.4M reviews), the full dataset is not included in
 2. **Hadoop Streaming:** Implemented Python MapReduce jobs for sentiment classification.  
 3. **PySpark:** Used Spark’s DataFrame API and MLlib for sentiment analysis.  
 4. **Performance Comparison:** Compared methodologies and results between both frameworks.  
-
----
-
-### Repository Structure  
