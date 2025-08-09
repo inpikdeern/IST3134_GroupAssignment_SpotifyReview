@@ -24,7 +24,7 @@ Our group members are:
   | pseudo_author_id     | Pseudonymized author ID |
   | author_name          | Reviewer’s display name |
   | review_text          | Full review text |
-  | review_rating        | Rating given by the user (1–5) |
+  | review_rating        | Rating given by the user |
   | review_likes         | Number of likes for the review |
   | author_app_version   | App version used during review |
   | review_timestamp     | Timestamp of review submission |
