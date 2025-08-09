@@ -1,0 +1,3 @@
+negative    305000
+neutral     975000
+positive    2125000
