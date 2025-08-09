@@ -14,7 +14,22 @@ Our group members are:
 📖 The dataset used in this project was obtained from Kaggle:  
 [Spotify Google Reviews Dataset – Kaggle](https://www.kaggle.com/datasets/ngchunyiu/spotify-google-reviews-dataset)  
 
-Due to its large size (625MB, 3.4M reviews), the full dataset is not included in this repository.  
+- **Size:** ~625 MB  
+- **Records:** ~3,400,000 reviews  
+- **Format:** CSV  
+- **Columns:**
+  | Column Name          | Description |
+  |----------------------|-------------|
+  | review_id            | Unique review identifier |
+  | pseudo_author_id     | Pseudonymized author ID |
+  | author_name          | Reviewer’s display name |
+  | review_text          | Full review text |
+  | review_rating        | Rating given by the user (1–5) |
+  | review_likes         | Number of likes for the review |
+  | author_app_version   | App version used during review |
+  | review_timestamp     | Timestamp of review submission |
+
+> ⚠️ Due to size restrictions, the dataset is **not included** in this repository.
 
 ## 🛠️ Technologies Used
 - **Amazon S3** for distributed data storage
